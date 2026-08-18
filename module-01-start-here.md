@@ -25,24 +25,24 @@ A welcome message to students before the course begins is also an important step
 ### Getting Started To Do List  
 You must complete all of the items below in the order listed before moving on to Module 1
 
-![Read Icon](images/Read-Icon.png) **READ**
+<img src="images/Read-Icon.png" alt="Read Icon" width="28"> **READ**
 
   - Course Syllabus & Class Schedule
 
-![Watch Icon](images/Watch-Icon.png) **WATCH**:
+<img src="images/Watch-Icon.png" alt="Watch Icon" width="28"> **WATCH**:
 
   - Course Video Tour
   - Instructor Welcome Video
 
-![Post Icon](images/Post-Icon.png) **POST**:
+<img src="images/Post-Icon.png" alt="Post Icon" width="28"> **POST**:
 
   - Class Introductions Discussion Board
 
-**![Quiz Icon](images/Quiz-Icon.png) COMPLETE:**
+**<img src="images/Quiz-Icon.png" alt="Quiz Icon" width="28"> COMPLETE:**
 
   - Course Orientation Quiz
 
-**![Start](images/start.png) START:**
+**<img src="images/start.png" alt="Start" width="28"> START:**
 
   - Move on to Module 1 and begin your work.
 

@@ -17,40 +17,40 @@ Please use this space to provide an introductory paragraph to provide students w
 
 ### Module 12 Learning PathwayYou must complete all items below to successfully complete Module 12
 
-**![Watch Icon.png](images/Watch-Icon-13.png) WATCH: Due XX/XX/XX by XX:XX**
+**<img src="images/Watch-Icon-13.png" alt="Watch Icon.png" width="28"> WATCH: Due XX/XX/XX by XX:XX**
 
 *Please provide a brief explanation of how the following videos will help students achieve the stated learning objectives for this module.*
 
   1. Video Title 1
   2. Video Title 2
 
-**![Read Icon.png](images/Read-Icon-13.png) READ: Due XX/XX/XX by XX:XX**
+**<img src="images/Read-Icon-13.png" alt="Read Icon.png" width="28"> READ: Due XX/XX/XX by XX:XX**
 
 *Please provide a brief explanation of how the following readings will help students achieve the stated learning objectives for this module.*
 
   1. Reading 1
   2. Reading 2
 
-**![Post Icon.png](images/Post-Icon-13.png) PARTICIPATE: Due XX/XX/XX by XX:XX**
+**<img src="images/Post-Icon-13.png" alt="Post Icon.png" width="28"> PARTICIPATE: Due XX/XX/XX by XX:XX**
 
 *Please provide a brief explanation of how participating in the following discussion will help students achieve the stated learning objectives for this module.*
 
   1. Module 12 Discussion Board
 
-**![Submit Icon](images/Submit-Icon-12.png) SUBMIT: Due XX/XX/XX by XX:XX**
+**<img src="images/Submit-Icon-12.png" alt="Submit Icon" width="28"> SUBMIT: Due XX/XX/XX by XX:XX**
 
 *Please provide a brief explanation of how the following assessment or activity will measure student achievement of the stated learning objectives for this module.*
 
   1. Module 12 Assignment
   2. Assignment Name
 
-**![Quiz Icon.png](images/Quiz-Icon-13.png) COMPLETE: Due XX/XX/XX by XX:XX**
+**<img src="images/Quiz-Icon-13.png" alt="Quiz Icon.png" width="28"> COMPLETE: Due XX/XX/XX by XX:XX**
 
 *Please provide a brief explanation of how the following assessment will measure student achievement of the stated learning objectives for this module.*
 
   1. Module 12 Quiz
 
-**![Attend Icon.png](images/Attend-Icon-12.png) ATTEND: On XX/XX/XX from XX:XX to XX:XX**
+**<img src="images/Attend-Icon-12.png" alt="Attend Icon.png" width="28"> ATTEND: On XX/XX/XX from XX:XX to XX:XX**
 
   1. Synchronous Class Session via ZOOM
 
